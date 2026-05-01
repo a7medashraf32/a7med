@@ -1,56 +1,82 @@
-<h1>👋 Hi, I'm Ahmed (a7med32)</h1>
+<h1 align="center">👋 Hi, I'm Ahmed (a7med32)</h1>
+<h3 align="center">⚽ Football Data Analyst | AI Student</h3>
 
-<h2>⚽ Football Data Analyst | AI Student</h2>
+<p align="center">
+  🎓 Faculty of Artificial Intelligence - Horus University <br>
+  ⚡ Turning Football Data into Insights <br>
+  🎨 Canva Designer (Expert)
+</p>
 
-<p>🎓 I'm a student at Horus University, Faculty of Artificial Intelligence</p>
-<p>⚡ I analyze football data in multiple ways to extract insights and performance trends</p>
-<p>🎨 I also design professional visuals and presentations using Canva</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-ashraf-9a490835a">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ashraf-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-<hr>
+---
 
 <h2>🚀 About Me</h2>
+
 <ul>
-  <li>📊 Passionate about football data analysis</li>
+  <li>📊 Passionate about Football Data Analysis</li>
   <li>🧠 Skilled in turning raw data into insights</li>
-  <li>🎯 Currently looking for opportunities (Internship / Freelance / Full-time)</li>
-  <li>📚 Always learning and improving my skills</li>
+  <li>📈 Creating dashboards & visual analytics</li>
+  <li>🎯 Currently looking for Internship / Freelance / Full-time opportunities</li>
 </ul>
 
-<hr>
+---
 
 <h2>🛠️ Skills</h2>
-<ul>
-  <li>💻 Programming: Python</li>
-  <li>📊 Data Analysis: Excel, Power BI</li>
-  <li>🎨 Design: Canva (Expert)</li>
-</ul>
 
-<hr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+</p>
+
+---
 
 <h2>📈 What I Do</h2>
+
 <ul>
-  <li>Analyze football matches &amp; player performance</li>
-  <li>Create data visualizations &amp; dashboards</li>
-  <li>Design eye-catching football graphics &amp; presentations</li>
+  <li>⚽ Analyze football matches & player performance</li>
+  <li>📊 Build dashboards using Excel & Power BI</li>
+  <li>🎨 Design football graphics & presentations</li>
 </ul>
 
-<hr>
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7med32&show_icons=true&theme=tokyonight" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med32&theme=tokyonight" alt="streak" />
+</p>
+
+---
 
 <h2>🎯 Current Goal</h2>
-<ul>
-  <li>🔍 Looking for a job in Data Analysis (Football / Sports Analytics)</li>
-  <li>💼 Open to Freelance &amp; Remote Opportunities</li>
-</ul>
 
-<hr>
+<p>
+🔍 Looking for a job in <b>Football / Sports Data Analysis</b> <br>
+💼 Open to Freelance & Remote Opportunities
+</p>
+
+---
 
 <h2>📬 Contact Me</h2>
+
 <ul>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/ahmed-ashraf-9a490835a">Ahmed Ashraf</a></li>
-  <li>📧 Email: (Add your email here)</li>
+  <li>📧 Email: (Add your email)</li>
 </ul>
 
-<hr>
+---
 
 <h2>⚡ Fun Fact</h2>
-<p>I combine <b>data + football + design</b> to create unique and powerful content ⚽📊🔥</p>
+
+<p align="center">
+I combine <b>Data + Football + Design</b> to create powerful content ⚽📊🔥
+</p>
